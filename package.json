@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "ccsunnydev@gmail.com",
   "license": "Apache-2.0",
   "dependencies": {
     "cors": "^2.8.5",
